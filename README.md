@@ -37,6 +37,12 @@ class ShehanWeerasinghe:
         self.passion     = "Deep Learning, NLP & Computer Vision"
         
     def get_status(self):
+
+
+🌟 Daily Motivation
+Inspirational Quote
+
+
         return {
             "🔭 Exploring"   : "Advanced Neural Networks & GenAI",
             "🌱 Learning"    : "Cutting-edge ML Architectures",
