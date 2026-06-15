@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehan+Weerasinghe;Software+Engineer;Creative+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<!-- Animated Header with AI Theme -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehan+Weerasinghe;AI+%26+Machine+Learning+Specialist;Data+Scientist;Building+Intelligent+Systems!" alt="Typing SVG" />
 
-<!-- Coding Animation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" alt="Coding Animation"/>
+<!-- AI / Machine Learning Animation -->
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/MachineLearning.gif" width="600" alt="Machine Learning Animation"/>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/shehan-n-weerasinghe-26307a399/" target="_blank">
@@ -19,29 +19,29 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shehanweersing&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=shehanweersing&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="AI Robot"/>
+<img align="right" src="https://raw.githubusercontent.com/aungmyin23/aungmyin23/main/assets/ai.gif" width="300" alt="AI Brain"/>
 
-### 🚀 About Me
+### 🧠 About Me
 
 ```python
 class ShehanWeerasinghe:
     def __init__(self):
         self.name        = "Shehan N. Weerasinghe"
-        self.role        = "Software Engineer & Developer"
-        self.location    = "Sri Lanka 🇱🇰" # Feel free to update this!
+        self.role        = "AI & Machine Learning Specialist"
+        self.passion     = "Deep Learning, NLP & Computer Vision"
         
-    def current_focus(self):
+    def get_status(self):
         return {
-            "🔭 Working on"  : "Building modern & scalable applications",
-            "🌱 Learning"    : "Exploring new technologies and frameworks",
-            "🤝 Open to"     : "Collaborations and open-source contributions",
-            "⚡ Fun fact"    : "I love turning complex problems into elegant code!"
+            "🔭 Exploring"   : "Advanced Neural Networks & GenAI",
+            "🌱 Learning"    : "Cutting-edge ML Architectures",
+            "🤝 Open to"     : "AI research and innovative projects",
+            "⚡ Philosophy"  : "Algorithms are the poetry of logic"
         }
 
 me = ShehanWeerasinghe()
