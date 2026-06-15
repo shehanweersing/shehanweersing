@@ -6,7 +6,9 @@
 <!-- AI / Machine Learning Animation -->
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/MachineLearning.gif" width="600" alt="Machine Learning Animation"/>
 
-<!-- Social Badges -->
+<br/>
+
+<!-- Modern Social Badges -->
 <a href="https://www.linkedin.com/in/shehan-n-weerasinghe-26307a399/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -19,6 +21,7 @@
 
 <br/>
 
+<!-- Visitor Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=shehanweersing&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -37,15 +40,9 @@ class ShehanWeerasinghe:
         self.passion     = "Deep Learning, NLP & Computer Vision"
         
     def get_status(self):
-
-
-🌟 Daily Motivation
-Inspirational Quote
-
-
         return {
-            "🔭 Exploring"   : "Advanced Neural Networks & GenAI",
-            "🌱 Learning"    : "Cutting-edge ML Architectures",
+            "🔭 Exploring"   : "Advanced LLMs & Generative AI",
+            "🌱 Learning"    : "MLOps & Scalable Model Deployment",
             "🤝 Open to"     : "AI research and innovative projects",
             "⚡ Philosophy"  : "Algorithms are the poetry of logic"
         }
