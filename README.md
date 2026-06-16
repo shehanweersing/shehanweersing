@@ -3,8 +3,8 @@
 <!-- Animated Header with AI Theme -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehan+Weerasinghe;AI+%26+Machine+Learning+Specialist;Data+Scientist;Building+Intelligent+Systems!" alt="Typing SVG" />
 
-<!-- AI / Machine Learning Animation -->
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/MachineLearning.gif" width="600" alt="Machine Learning Animation"/>
+<!-- AI / Tech Animation (Reliable Giphy Link) -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jIGsnu/giphy.gif" width="600" alt="Neural Network Animation"/>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/aungmyin23/aungmyin23/main/assets/ai.gif" width="300" alt="AI Brain"/>
+<img align="right" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="300" alt="AI Brain"/>
 
 ### 🧠 About Me
 
